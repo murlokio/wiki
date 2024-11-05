@@ -50,4 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Paragraph with image
 
+Hi
+
 ![output copy](https://github.com/user-attachments/assets/98830710-c757-4f57-bd66-24dbad9f0ed9)
+
+Bye
