@@ -14,7 +14,7 @@ The Murlok.io Wiki is here to:
 We welcome contributions from the community! To contribute:
 
 1. Fork this repository.
-2. Edit or add `.md` files with new content or updates.
+2. Edit or add `.md` files into the `src` folder with new content or updates.
 3. Submit a pull request with a brief description of your changes.
 
 All contributions are reviewed to ensure they align with Murlok.io's standards for clarity and accuracy.
