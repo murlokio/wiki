@@ -21,16 +21,157 @@ All contributions are reviewed to ensure they align with Murlok.io's standards f
 
 ## Article Format
 
-All articles in this wiki are written in [Markdown (.md) format](https://www.markdownguide.org/cheat-sheet/) . Markdown makes it easy to format text, add headers, lists, links, images, and more, ensuring a clean and readable structure for each article.
+All articles in this wiki are written in [Markdown (.md) format](https://www.markdownguide.org). Markdown makes it easy to format text, add headers, lists, links, images, and more, ensuring a clean and readable structure for each article.
 
-### Image Banner
+<table>
+<tr>
+<th>Element</th>
+<th>Markdown Syntax</th>
+</tr>
+<tr>
+<td>Heading</td>
+<td>
+
+```md
+# H1
+
+## H2
+
+### H3
+```
+
+</td>
+</tr>
+<tr>
+<td>Link</td>
+<td>
+
+```md
+[title](https://www.example.com)
+```
+
+</td>
+</tr>
+<tr>
+<td>Image</td>
+<td>
+
+```md
+![alt text](image.webp)
+```
+
+</td>
+</tr>
+<tr>
+<td>Unordered List</td>
+<td>
+
+```md
+- First item
+- Second item
+- Third item
+```
+
+</td>
+</tr>
+<tr>
+<td>Ordered List</td>
+<td>
+
+```md
+1. First item
+2. Second item
+3. Third item
+```
+
+</td>
+</tr>
+</tr>
+<tr>
+<td>Table</td>
+<td>
+
+```md
+| Title 1 | Title 2 |
+| ------- | ------- |
+| Lorem   | Ipsum   |
+| Lorem   | Ipsum   |
+```
+
+</td>
+</tr>
+<tr>
+<td>Blockquote</td>
+<td>
+
+```md
+> blockquote
+```
+
+</td>
+</tr>
+<tr>
+<td>Code</td>
+<td>
+
+```md
+`code`
+```
+
+</td>
+</tr>
+</tr>
+<tr>
+<td>Fenced Code Block</td>
+<td>
+
+````md
+```json
+{
+  "firstName": "Varian",
+  "lastName": "Wrynn"
+}
+```
+````
+
+</td>
+</tr>
+<tr>
+<td>Bold</td>
+<td>
+
+```md
+**bold text**
+```
+
+</td>
+</tr>
+<tr>
+<td>Italic</td>
+<td>
+
+```md
+_italicized text_
+```
+
+</td>
+</tr>
+</table>
+
+## Customize Image Banner
 
 To add an image banner at the top of an article:
 
 - Place the image immediately above the main title (`# Title`), and it will automatically be used as the banner image on Murlok.io.
-- Alternatively, you can specify the banner image by adding a comment line at the top of the `.md` file with the `wiki:image` prefix.
+- Alternatively, you can specify the banner image by adding a comment line at the top of the `.md` file with the `wiki:image` prefix:
 
-### Metadata
+  ```md
+  <!-- wiki:image https://example.com/banner.webp -->
+
+  # Main Title
+  ```
+
+## Customize Page Metadata
 
 You can customize the metadata for each article by including a special comment at the top of the Markdown file. This helps optimize SEO and improve how the article appears on Murlok.io and in search results.
 
