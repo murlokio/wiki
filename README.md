@@ -120,7 +120,6 @@ All articles in this wiki are written in [Markdown (.md) format](https://www.mar
 
 </td>
 </tr>
-</tr>
 <tr>
 <td>Fenced Code Block</td>
 <td>
