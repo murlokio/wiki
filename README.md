@@ -23,6 +23,88 @@ All contributions are reviewed to ensure they align with Murlok.io's standards f
 
 All articles in this wiki are written in [Markdown (.md) format](https://www.markdownguide.org). Markdown makes it easy to format text, add headers, lists, links, images, and more, ensuring a clean and readable structure for each article.
 
+### Heading
+
+```md
+# H1
+
+## H2
+
+### H3
+```
+
+### Link
+
+```md
+[title](https://www.example.com)
+```
+
+### Image
+
+```md
+![alt text](image.webp)
+```
+
+### Unordered List
+
+```md
+- First item
+- Second item
+- Third item
+```
+
+### Ordered List
+
+```md
+1. First item
+2. Second item
+3. Third item
+```
+
+### Table
+
+```md
+| Title 1 | Title 2 |
+| ------- | ------- |
+| Lorem   | Ipsum   |
+| Lorem   | Ipsum   |
+```
+
+### Blockquote
+
+```md
+> blockquote
+```
+
+### Code
+
+```md
+`code`
+```
+
+### Fenced Code Block
+
+````md
+```json
+{
+  "firstName": "Varian",
+  "lastName": "Wrynn"
+}
+```
+````
+
+### Bold
+
+```md
+**bold text**
+```
+
+### Italic
+
+```md
+_italicized text_
+```
+
 ## Customize Image Banner
 
 To add an image banner at the top of an article:
