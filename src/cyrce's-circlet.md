@@ -1,3 +1,4 @@
+<!-- wiki:icon /img/cyrce-s-circlet.webp -->
 <!-- wiki:description Discover Cyrce’s Circlet in WoW The War Within 11.0.7 – a powerful ring with upgradeable item levels and three unique Citrine Gem slots for PvE and PvP customization. Learn where to find it, gem effects, and tips for maximizing its potential. -->
 
 # Cyrce's Circlet
