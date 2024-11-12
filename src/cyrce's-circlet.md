@@ -38,12 +38,12 @@ These gems can be acquired by completing various content on Siren Isle, providin
 
 ## Wind Citrine Gem List
 
-| Name                            | Effect                                                                                      |
-| ------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Old Salt's Bardic Citrine**   | Your spells may whisper a sea shanty, healing nearby allies over time.                      |
-| **Legendary Skipper's Citrine** | Your abilities have a chance to cast a random Singing Citrine effect at 150% effectiveness. |
-| **Windsinger's Runed Citrine**  | Increases your highest secondary stat.                                                      |
-| **Squall Sailor's Citrine**     | Your abilities may strike multiple enemies with a slicing seabreeze, dealing Nature damage. |
+|                                                                       | Name                            | Effect                                                                                      |
+| --------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![Old Salt's Bardic Citrine](/img/old-salt-s-bardic-citrine.webp)     | **Old Salt's Bardic Citrine**   | Your spells may whisper a sea shanty, healing nearby allies over time.                      |
+| ![Legendary Skipper's Citrine](/img/legendary-skipper-s-citrine.webp) | **Legendary Skipper's Citrine** | Your abilities have a chance to cast a random Singing Citrine effect at 150% effectiveness. |
+| ![Windsinger's Runed Citrine](/img/windsinger-s-runed-citrine.webp)   | **Windsinger's Runed Citrine**  | Increases your highest secondary stat.                                                      |
+| ![Squall Sailor's Citrine](/img/squall-sailor-s-citrine.webp)         | **Squall Sailor's Citrine**     | Your abilities may strike multiple enemies with a slicing seabreeze, dealing Nature damage. |
 
 ## Cyrce's Circlet: Notes and Tips
 
