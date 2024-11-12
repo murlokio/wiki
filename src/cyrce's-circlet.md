@@ -18,7 +18,7 @@ Cyrce's Circlet includes three sockets that can be filled with **Citrine Gems**,
 
 These gems can be acquired by completing various content on Siren Isle, providing a range of powerful effects.
 
-### Thunder Citrine Gem Effects
+## Thunder Citrine Gem Effects
 
 | Name                                | Effect                                                                                                                                                                                                   |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ These gems can be acquired by completing various content on Siren Isle, providin
 | **Stormbringer's Runed Citrine**    | Increases all secondary stats.                                                                                                                                                                           |
 | **Thunderlord's Crackling Citrine** | Your spells and abilities have a chance to deal Nature damage to an enemy.                                                                                                                               |
 
-### Sea Citrine Gem Effects
+## Sea Citrine Gem Effects
 
 | Name                              | Effect                                                                                                          |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ These gems can be acquired by completing various content on Siren Isle, providin
 | **Fathomdweller's Runed Citrine** | Increases Mastery and boosts the effects of all other Singing Citrines based on your total Mastery.             |
 | **Undersea Overseer's Citrine**   | Your spells may drench an enemy in freezing water, bouncing to nearby enemies and dealing Frost damage.         |
 
-### Wind Citrine Gem Effects
+## Wind Citrine Gem Effects
 
 | Name                            | Effect                                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------------------- |
