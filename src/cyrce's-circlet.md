@@ -18,16 +18,16 @@ Cyrce's Circlet includes three sockets that can be filled with **Citrine Gems**,
 
 These gems can be acquired by completing various content on Siren Isle, providing a range of powerful effects.
 
-## Thunder Citrine Gem Effects
+## Thunder Citrine Gem List
 
-| Name                                | Effect                                                                                                                                                                                                   |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Storm Sewer's Citrine**           | Grants a chance for your spells and abilities to shield an ally with lightning, absorbing damage for 10 seconds. While the shield is active, attackers take 10% of the absorbed amount as Nature damage. |
-| **Roaring War-Queen's Citrine**     | Your abilities have a low chance to trigger the Singing Thunder Citrine effects for 4 nearby allies. When an ally dies, this effect activates immediately.                                               |
-| **Stormbringer's Runed Citrine**    | Increases all secondary stats.                                                                                                                                                                           |
-| **Thunderlord's Crackling Citrine** | Your spells and abilities have a chance to deal Nature damage to an enemy.                                                                                                                               |
+|                                                                          | Name                                | Effect                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------ | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Storm Sewer's Citrine](../img/storm-sewer's-citrine.webp)              | **Storm Sewer's Citrine**           | Grants a chance for your spells and abilities to shield an ally with lightning, absorbing damage for 10 seconds. While the shield is active, attackers take 10% of the absorbed amount as Nature damage. |
+| ![Roaring War-Queen's Citrine](../img/roaring-war-queen's-citrine.webp)  | **Roaring War-Queen's Citrine**     | Your abilities have a low chance to trigger the Singing Thunder Citrine effects for 4 nearby allies. When an ally dies, this effect activates immediately.                                               |
+| ![Stormbringer's Runed Citrin](../img/stormbringer's-runed-citrine.webp) | **Stormbringer's Runed Citrine**    | Increases all secondary stats.                                                                                                                                                                           |
+| ![Thunderlord's Crackling Citrine](../img/storm-sewer's-citrine.webp)    | **Thunderlord's Crackling Citrine** | Your spells and abilities have a chance to deal Nature damage to an enemy.                                                                                                                               |
 
-## Sea Citrine Gem Effects
+## Sea Citrine Gem List
 
 | Name                              | Effect                                                                                                          |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ These gems can be acquired by completing various content on Siren Isle, providin
 | **Fathomdweller's Runed Citrine** | Increases Mastery and boosts the effects of all other Singing Citrines based on your total Mastery.             |
 | **Undersea Overseer's Citrine**   | Your spells may drench an enemy in freezing water, bouncing to nearby enemies and dealing Frost damage.         |
 
-## Wind Citrine Gem Effects
+## Wind Citrine Gem List
 
 | Name                            | Effect                                                                                      |
 | ------------------------------- | ------------------------------------------------------------------------------------------- |
