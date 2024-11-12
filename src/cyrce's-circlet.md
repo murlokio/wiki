@@ -20,7 +20,7 @@ These gems can be acquired by completing various content on Siren Isle, providin
 
 ## Thunder Citrine Gem List
 
-|                                                                        | Name                                | Effect                                                                                                                                                                                                   |
+| Icon                                                                   | Name                                | Effect                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Storm Sewer's Citrine](/img/storm-sewer-s-citrine.webp)              | **Storm Sewer's Citrine**           | Grants a chance for your spells and abilities to shield an ally with lightning, absorbing damage for 10 seconds. While the shield is active, attackers take 10% of the absorbed amount as Nature damage. |
 | ![Roaring War-Queen's Citrine](/img/roaring-war-queen-s-citrine.webp)  | **Roaring War-Queen's Citrine**     | Your abilities have a low chance to trigger the Singing Thunder Citrine effects for 4 nearby allies. When an ally dies, this effect activates immediately.                                               |
