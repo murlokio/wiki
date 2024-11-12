@@ -20,7 +20,7 @@ These gems can be acquired by completing various content on Siren Isle, providin
 
 ## Thunder Citrine Gem List
 
-| Icon                                                                   | Name                                | Effect                                                                                                                                                                                                   |
+|                                                                        | Name                                | Effect                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Storm Sewer's Citrine](/img/storm-sewer-s-citrine.webp)              | **Storm Sewer's Citrine**           | Grants a chance for your spells and abilities to shield an ally with lightning, absorbing damage for 10 seconds. While the shield is active, attackers take 10% of the absorbed amount as Nature damage. |
 | ![Roaring War-Queen's Citrine](/img/roaring-war-queen-s-citrine.webp)  | **Roaring War-Queen's Citrine**     | Your abilities have a low chance to trigger the Singing Thunder Citrine effects for 4 nearby allies. When an ally dies, this effect activates immediately.                                               |
@@ -29,12 +29,12 @@ These gems can be acquired by completing various content on Siren Isle, providin
 
 ## Sea Citrine Gem List
 
-| Name                              | Effect                                                                                                          |
-| --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Mariner's Hallowed Citrine**    | Your abilities may heal an ally and jump to 2 nearby allies, restoring their health.                            |
-| **Seabed Leviathan's Citrine**    | Grants additional Stamina and increases your size slightly. When above 80% health, attackers take Frost damage. |
-| **Fathomdweller's Runed Citrine** | Increases Mastery and boosts the effects of all other Singing Citrines based on your total Mastery.             |
-| **Undersea Overseer's Citrine**   | Your spells may drench an enemy in freezing water, bouncing to nearby enemies and dealing Frost damage.         |
+|                                                                           | Name                              | Effect                                                                                                          |
+| ------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![Mariner's Hallowed Citrine](/img/mariner-s-hallowed-citrine.webp)       | **Mariner's Hallowed Citrine**    | Your abilities may heal an ally and jump to 2 nearby allies, restoring their health.                            |
+| ![Seabed Leviathan's Citrine](/img/seabed-leviathan-s-citrine.webp)       | **Seabed Leviathan's Citrine**    | Grants additional Stamina and increases your size slightly. When above 80% health, attackers take Frost damage. |
+| ![Fathomdweller's Runed Citrine](/img/fathomdweller-s-runed-citrine.webp) | **Fathomdweller's Runed Citrine** | Increases Mastery and boosts the effects of all other Singing Citrines based on your total Mastery.             |
+| ![Undersea Overseer's Citrine](/img/undersea-overseer-s-citrine.webp)     | **Undersea Overseer's Citrine**   | Your spells may drench an enemy in freezing water, bouncing to nearby enemies and dealing Frost damage.         |
 
 ## Wind Citrine Gem List
 
