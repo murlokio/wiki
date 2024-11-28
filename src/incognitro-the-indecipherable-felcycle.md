@@ -23,9 +23,10 @@ The first step in your journey is to locate the **Inert Peculiar Key**, a myster
 
 ### How to Find the Inert Peculiar Key
 
-1. Travel to **Marshal's Refuge** in Un'Goro Crater.
-   ![Inert Peculiar Key Location](/img/map-inert-peculiar-key.webp)
-2. Search for a hollow dead tree. The **Inert Peculiar Key** is located inside.
-   ![Inert Peculiar Key](/img/inert-peculiar-key.webp)
+Travel to **Marshal's Refuge** in Un'Goro Crater.
+![Inert Peculiar Key Location](/img/map-inert-peculiar-key.webp)
+
+Search for a hollow dead tree. The **Inert Peculiar Key** is located inside.
+![Inert Peculiar Key](/img/inert-peculiar-key.webp)
 
 This peculiar key is incomplete and requires a gem to socket into it before it can be used. Finding this gem is your next task.
