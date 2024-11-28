@@ -42,7 +42,6 @@ With the **Detective** title equipped, your next step is to take on the quest **
 Equip the **Detective** title and travel to **Dornogal**, where you’ll find a **Dalaran Survivor** near the hot spring in the northeast part of the city. Speak to the survivor, and they will offer the **Ratts' Race** quest if the title is active.
 
 ```
-# TomTom Command
 /way #2339 54.99 28.92 Dalaran Survivor
 ```
 
@@ -51,7 +50,6 @@ Equip the **Detective** title and travel to **Dornogal**, where you’ll find a 
 The first clue is inside a cave in the southeastern part of **Azj-Kahet**.
 
 ```
-# TomTom Command
 /way #2255 69.34 93.32 Unfinished Note
 ```
 
@@ -60,7 +58,6 @@ The first clue is inside a cave in the southeastern part of **Azj-Kahet**.
 The second clue is above the **City of Thread**, perched on top of a rock.
 
 ```
-# TomTom Command
 /way #2213 31.49 20.75 Hastily Scrawled Note
 ```
 
@@ -69,7 +66,6 @@ The second clue is above the **City of Thread**, perched on top of a rock.
 The third clue is hidden in a lake from a hidden cave located to the right of the western connection between **Azj-Kahet** and **Hallowfall**.
 
 ```
-# TomTom Command
 /way #2215 50.73 86.64 Water-Resistant Note
 ```
 
@@ -78,7 +74,6 @@ The third clue is hidden in a lake from a hidden cave located to the right of th
 Once all the clues are collected, head to a cave in the northern part of **Azj-Kahet**, west of the **Faerin's Advance** flight path.
 
 ```
-# TomTom Command
 /way #2255 55.03 19.09 Cave Entrance
 ```
 
