@@ -37,11 +37,11 @@ With the **Detective** title equipped, your next step is to take on the quest **
 
 Equip the **Detective** title and travel to **Dornogal**, where you’ll find a **Dalaran Survivor** near the hot spring in the northeast part of the city. Speak to the survivor, and they will offer the **Ratts' Race** quest if the title is active.
 
-![Cave Entrance Location](/img/location-ratts-race-clue-0.webp)
-
 ```
 /way #2339 54.99 28.92 Dalaran Survivor
 ```
+
+![Cave Entrance Location](/img/location-ratts-race-clue-0.webp)
 
 ### Clue 1: Unfinished Note
 
@@ -57,31 +57,31 @@ The first clue is inside a cave in the southeastern part of **Azj-Kahet**.
 
 The second clue is above the **City of Thread**, perched on top of a rock.
 
-![Hastily Scrawled Note Location](/img/location-ratts-race-clue-2.webp)
-
 ```
 /way #2213 31.49 20.75 Hastily Scrawled Note
 ```
+
+![Hastily Scrawled Note Location](/img/location-ratts-race-clue-2.webp)
 
 ### Clue 3: Water-Resistant Note
 
 The third clue is hidden in a lake from a hidden cave located to the right of the western connection between **Azj-Kahet** and **Hallowfall**.
 
-![Cave Entrance Location](/img/location-ratts-race-clue-3.webp)
-
 ```
 /way #2215 50.73 86.64 Water-Resistant Note
 ```
+
+![Cave Entrance Location](/img/location-ratts-race-clue-3.webp)
 
 ### Confronting Ratts
 
 Once all the clues are collected, head to a cave in the northern part of **Azj-Kahet**, west of the **Faerin's Advance** flight path.
 
-![Cave Entrance Location](/img/location-ratts-race-clue-4.webp)
-
 ```
 /way #2255 55.03 19.09 Cave Entrance
 ```
+
+![Cave Entrance Location](/img/location-ratts-race-clue-4.webp)
 
 At the entrance, take the right path and look for a vibrant coral on the left wall. Climb to the top, where you’ll see multiple holes. Enter the small hole in the middle to reach **Ratts' lair**.
 
