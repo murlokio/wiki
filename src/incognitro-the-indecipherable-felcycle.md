@@ -110,3 +110,39 @@ Inside, you’ll find the Felcycle surrounded by twelve pylons.
 ![Incognitro](/img/incognitro-pylons.webp)
 
 Your next objective is to activate all twelve of them to continue your quest.
+
+## 1 O'Clock Pylon: Love
+
+To activate the 1 o’clock pylon, you must acquire three stacks of the **The Light of Their Love** buff. These stacks are earned by using the **Torch of Pyrreth** at three locations connected to the story of an Orc named **Olgra**.
+
+### Humble Monument
+
+The first location is the **Humble Monument** in the **Northern Barrens**. Use the **Torch of Pyrreth** near the monument to gain the first stack of the buff.
+
+![Humble Monument Northern Barrens Location](/img/location-pylon-1-a.webp)
+
+```
+/way #10 55.0 40.2 Humble Monument, Northern Barrens
+```
+
+### Younger Olgra
+
+The second location takes you to **Nagrand** in **Draenor**, where a younger version of **Olgra** can be found. Use the **Torch of Pyrreth** near her to gain the second stack.
+
+![Olgra Draenor Location](/img/location-pylon-1-b.webp)
+
+```
+/way #550 74.2 37.5 Olgra, Nagrand Draenor
+```
+
+### Decimator Olgra
+
+The third and final location is in **Maldraxxus** within the **Shadowlands**, where **Decimator Olgra**, an afterlife version of the character, resides. Use the **Torch of Pyrreth** near her to obtain the third stack of the buff.
+
+![Decimator Olgra Maldraxxus Location](/img/location-pylon-1-c.webp)
+
+```
+/way #1536 27.3 61.3 Decimator Olgra, Maldraxxus
+```
+
+Once all three stacks are acquired, return to the Felcycle. The 1 o’clock pylon should now be activated.
