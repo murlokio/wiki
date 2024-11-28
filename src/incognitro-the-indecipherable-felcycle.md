@@ -16,5 +16,3 @@ To begin your journey toward acquiring the **Incognitro, the Indecipherable Felc
 
 Complete all quests given by Alyx and solve the Darkmoon card puzzle.  
 Alyx is located on the central platform of the World of Warcraft 20th anniversary event. Completing all her quests and dialogue will unlock the **Azeroth's Greatest Detective** achievement and reward the Detective title.
-
-
