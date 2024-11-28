@@ -51,6 +51,8 @@ The first clue is inside a cave in the southeastern part of **Azj-Kahet**.
 /way #2255 69.34 93.32 Unfinished Note
 ```
 
+![Hastily Scrawled Note Location](/img/location-ratts-race-clue-1.webp)
+
 ### Clue 2: Hastily Scrawled Note
 
 The second clue is above the **City of Thread**, perched on top of a rock.
