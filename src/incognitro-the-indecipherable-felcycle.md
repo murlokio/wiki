@@ -92,3 +92,21 @@ At the entrance, take the right path and look for a vibrant coral on the left wa
 ![Ratts Entrance Location](/img/location-ratts-race-clue-4b.webp)
 
 Confront Ratts, and she will drop the **Peculiar Gem**, completing this step.
+
+## Step 3: Karazhan Catacombs
+
+With the **Peculiar Gem** in hand, the next step is to unlock the secrets of the **Karazhan Catacombs**. Begin by socketing the **Peculiar Gem** into the **Inert Peculiar Key**, transforming it and preparing it for use in the next stage of your journey.
+
+Travel to **Karazhan** in **Deadwind Pass** and locate the entrance to the catacombs. This hidden location is the gateway to the next challenge. Use the **Torch of Pyrreth** to reveal the entrance to the instance.
+
+![Karazhan Catacombs Location](/img/location-karazhan-catacombs.webp)
+
+```
+/way Karazhan Catacombs 46.65 69.03
+```
+
+Inside, you’ll find the Felcycle surrounded by twelve pylons.
+
+![Incognitro](/img/incognitro-pylons.webp)
+
+Your next objective is to activate all twelve of them to continue your quest.
