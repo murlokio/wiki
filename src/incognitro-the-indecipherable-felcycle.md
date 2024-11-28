@@ -12,7 +12,7 @@ To begin your journey toward acquiring the **Incognitro, the Indecipherable Felc
 
 ### How to Obtain the Greatest Detective Title
 
-Complete all quests given by Alyx and solve the Darkmoon card puzzle.  
+Complete all quests given by Alyx and solve the Darkmoon card puzzle.
 Alyx is located on the central platform of the World of Warcraft 20th anniversary event. Completing all her quests and dialogue will unlock the **Azeroth's Greatest Detective** achievement and reward the Detective title.
 
 ![Alyx](/img/wow-event-alyx.webp)
@@ -27,5 +27,3 @@ The first step in your journey is to locate the **Inert Peculiar Key**, a myster
 2. Search for a hollow dead tree. The **Inert Peculiar Key** is located inside. ![Inert Peculiar Key](/img/inert-peculiar-key.webp)
 
 This peculiar key is incomplete and requires a gem to socket into it before it can be used. Finding this gem is your next task.
-
-
