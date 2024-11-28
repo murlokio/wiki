@@ -37,6 +37,8 @@ With the **Detective** title equipped, your next step is to take on the quest **
 
 Equip the **Detective** title and travel to **Dornogal**, where you’ll find a **Dalaran Survivor** near the hot spring in the northeast part of the city. Speak to the survivor, and they will offer the **Ratts' Race** quest if the title is active.
 
+![Cave Entrance Location](/img/location-ratts-race-clue-0.webp)
+
 ```
 /way #2339 54.99 28.92 Dalaran Survivor
 ```
@@ -59,9 +61,11 @@ The second clue is above the **City of Thread**, perched on top of a rock.
 /way #2213 31.49 20.75 Hastily Scrawled Note
 ```
 
-### Clue 3
+### Clue 3: Water-Resistant Note
 
 The third clue is hidden in a lake from a hidden cave located to the right of the western connection between **Azj-Kahet** and **Hallowfall**.
+
+![Cave Entrance Location](/img/location-ratts-race-clue-3.webp)
 
 ```
 /way #2215 50.73 86.64 Water-Resistant Note
@@ -78,5 +82,7 @@ Once all the clues are collected, head to a cave in the northern part of **Azj-K
 ```
 
 At the entrance, take the right path and look for a vibrant coral on the left wall. Climb to the top, where you’ll see multiple holes. Enter the small hole in the middle to reach **Ratts' lair**.
+
+![Cave Entrance Location](/img/location-ratts-race-clue-4b.webp)
 
 Confront Ratts, and she will drop the **Peculiar Gem**, completing this step.
