@@ -17,7 +17,7 @@ Alyx is located on the central platform of the World of Warcraft 20th anniversar
 
 ![Alyx](/img/wow-event-alyx.webp)
 
-## Step 1: Inert Peculiar Key
+## Inert Peculiar Key
 
 The first step in your journey is to locate the **Inert Peculiar Key**, a mysterious item hidden in **Marshal's Refuge**. It can be found tucked inside the trunk of a dead tree.
 
@@ -33,7 +33,7 @@ Travel to **Marshal's Refuge** in Un'Goro Crater and search for a hollow dead tr
 
 This peculiar key is incomplete and requires a gem to socket into it before it can be used. Finding this gem is your next task.
 
-## Step 2: Ratts' Race
+## Ratts' Race
 
 With the **Detective** title equipped, your next step is to take on the quest **Ratts' Race**. This quest will ultimately reward you with the **Peculiar Gem**, which is needed to complete the **Inert Peculiar Key**.
 
@@ -93,7 +93,7 @@ At the entrance, take the right path and look for a vibrant coral on the left wa
 
 Confront Ratts, and she will drop the **Peculiar Gem**, completing this step.
 
-## Step 3: Karazhan Catacombs
+## Karazhan Catacombs
 
 With the **Peculiar Gem** in hand, the next step is to unlock the secrets of the **Karazhan Catacombs**. Begin by socketing the **Peculiar Gem** into the **Inert Peculiar Key**, transforming it and preparing it for use in the next stage of your journey.
 
