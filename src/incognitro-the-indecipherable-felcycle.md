@@ -71,6 +71,8 @@ The third clue is hidden in a lake from a hidden cave located to the right of th
 
 Once all the clues are collected, head to a cave in the northern part of **Azj-Kahet**, west of the **Faerin's Advance** flight path.
 
+![Cave Entrance Location](/img/location-ratts-race-clue-4.webp)
+
 ```
 /way #2255 55.03 19.09 Cave Entrance
 ```
