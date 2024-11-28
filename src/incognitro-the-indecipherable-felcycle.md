@@ -16,3 +16,16 @@ Complete all quests given by Alyx and solve the Darkmoon card puzzle.
 Alyx is located on the central platform of the World of Warcraft 20th anniversary event. Completing all her quests and dialogue will unlock the **Azeroth's Greatest Detective** achievement and reward the Detective title.
 
 ![Alyx](/img/wow-event-alyx.webp)
+
+## Step 1: Inert Peculiar Key
+
+The first step in your journey is to locate the **Inert Peculiar Key**, a mysterious item hidden in **Marshal's Refuge**. It can be found tucked inside the trunk of a dead tree.
+
+### How to Find the Inert Peculiar Key
+
+1. Travel to **Marshal's Refuge** in Un'Goro Crater. ![Inert Peculiar Key Location](/img/map-inert-peculiar-key.webp)
+2. Search for a hollow dead tree. The **Inert Peculiar Key** is located inside. ![Inert Peculiar Key](/img/inert-peculiar-key.webp)
+
+This peculiar key is incomplete and requires a gem to socket into it before it can be used. Finding this gem is your next task.
+
+
