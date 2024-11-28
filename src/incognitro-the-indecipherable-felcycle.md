@@ -27,6 +27,10 @@ Travel to **Marshal's Refuge** in Un'Goro Crater and search for a hollow dead tr
 
 ![Inert Peculiar Key](/img/location-inert-peculiar-key.webp)
 
+```
+/way #78 44.55 7.98 Inert Peculiar key
+```
+
 This peculiar key is incomplete and requires a gem to socket into it before it can be used. Finding this gem is your next task.
 
 ## Step 2: Ratts' Race
@@ -37,54 +41,54 @@ With the **Detective** title equipped, your next step is to take on the quest **
 
 Equip the **Detective** title and travel to **Dornogal**, where you’ll find a **Dalaran Survivor** near the hot spring in the northeast part of the city. Speak to the survivor, and they will offer the **Ratts' Race** quest if the title is active.
 
+![Ratts' Race Quest Location](/img/location-ratts-race-clue-0.webp)
+
 ```
 /way #2339 54.99 28.92 Dalaran Survivor
 ```
-
-![Cave Entrance Location](/img/location-ratts-race-clue-0.webp)
 
 ### Clue 1: Unfinished Note
 
 The first clue is inside a cave in the southeastern part of **Azj-Kahet**.
 
+![Unfinished Note](/img/location-ratts-race-clue-1.webp)
+
 ```
 /way #2255 69.34 93.32 Unfinished Note
 ```
-
-![Hastily Scrawled Note Location](/img/location-ratts-race-clue-1.webp)
 
 ### Clue 2: Hastily Scrawled Note
 
 The second clue is above the **City of Thread**, perched on top of a rock.
 
+![Hastily Scrawled Note Location](/img/location-ratts-race-clue-2.webp)
+
 ```
 /way #2213 31.49 20.75 Hastily Scrawled Note
 ```
-
-![Hastily Scrawled Note Location](/img/location-ratts-race-clue-2.webp)
 
 ### Clue 3: Water-Resistant Note
 
 The third clue is hidden in a lake from a hidden cave located to the right of the western connection between **Azj-Kahet** and **Hallowfall**.
 
+![Water-Resistant Note Location](/img/location-ratts-race-clue-3.webp)
+
 ```
 /way #2215 50.73 86.64 Water-Resistant Note
 ```
-
-![Cave Entrance Location](/img/location-ratts-race-clue-3.webp)
 
 ### Confronting Ratts
 
 Once all the clues are collected, head to a cave in the northern part of **Azj-Kahet**, west of the **Faerin's Advance** flight path.
 
+![Cave Entrance Location](/img/location-ratts-race-clue-4.webp)
+
 ```
 /way #2255 55.03 19.09 Cave Entrance
 ```
 
-![Cave Entrance Location](/img/location-ratts-race-clue-4.webp)
-
 At the entrance, take the right path and look for a vibrant coral on the left wall. Climb to the top, where you’ll see multiple holes. Enter the small hole in the middle to reach **Ratts' lair**.
 
-![Cave Entrance Location](/img/location-ratts-race-clue-4b.webp)
+![Ratts Entrance Location](/img/location-ratts-race-clue-4b.webp)
 
 Confront Ratts, and she will drop the **Peculiar Gem**, completing this step.
