@@ -23,13 +23,9 @@ The first step in your journey is to locate the **Inert Peculiar Key**, a myster
 
 ### How to Find the Inert Peculiar Key
 
-Travel to **Marshal's Refuge** in Un'Goro Crater.
+Travel to **Marshal's Refuge** in Un'Goro Crater and search for a hollow dead tree. The **Inert Peculiar Key** is located inside.
 
-![Inert Peculiar Key Location](/img/map-inert-peculiar-key.webp)
-
-Search for a hollow dead tree. The **Inert Peculiar Key** is located inside.
-
-![Inert Peculiar Key](/img/inert-peculiar-key.webp)
+![Inert Peculiar Key](/img/location-inert-peculiar-key.webp)
 
 This peculiar key is incomplete and requires a gem to socket into it before it can be used. Finding this gem is your next task.
 
@@ -45,7 +41,7 @@ Equip the **Detective** title and travel to **Dornogal**, where you’ll find a 
 /way #2339 54.99 28.92 Dalaran Survivor
 ```
 
-### Clue 1
+### Clue 1: Unfinished Note
 
 The first clue is inside a cave in the southeastern part of **Azj-Kahet**.
 
@@ -53,9 +49,11 @@ The first clue is inside a cave in the southeastern part of **Azj-Kahet**.
 /way #2255 69.34 93.32 Unfinished Note
 ```
 
-### Clue 2
+### Clue 2: Hastily Scrawled Note
 
 The second clue is above the **City of Thread**, perched on top of a rock.
+
+![Hastily Scrawled Note Location](/img/location-ratts-race-clue-2.webp)
 
 ```
 /way #2213 31.49 20.75 Hastily Scrawled Note
