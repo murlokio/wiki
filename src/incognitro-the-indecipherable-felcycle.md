@@ -169,23 +169,6 @@ The **Key of Shadows** is also used to unlock two doors within the **Karazhan Ca
 
 ## 3 O'Clock Pylon: Hate
 
-- This puzzle requires to have at least 5 of the following lucky items in your inventory: Lucky Tortollan Charm, Claw Lucky Dragon's Claw, Lucky Rat's Tooth, Lucky Charm, Lucky Shirt, Lucky Duck, Lucky Horseshoe. Most of those can be purchased at the Auction House.
-- Go to the Karazhan Catacombs and go to the left room opened with the Key of Shadows obtained during the previous pylon activation.
-- On the left of the room entrance, there is an Astral Soup in bowl located on the shelf. Use you fishing skill on the bowl until you loot the Astral Key.
-- Open the nearby Astral Chest to receive Starry-Eyed Goggles. Learn the toy and use it to get the buff Starry-Eyed Goggles, which allow to see spectral Decryption Consoles.
-- Using Decryption Consoles change your action bar and allow you to input numbers. Using the right sequence unlocks a item nearby the console. Looting the item reward a Piece of Hate, 9 are required to active the pylon.
-- The 1st console is located on the left of the Astral Chest. Use 88224646 to unlock Ko'nani.
-- The 2nd console is in the other room unlocked with the Key of Shadows. Input 17112317 to unlock the Encrypted Puzzle Box on the left of the console.
-- The 3rd console is located out of the room. Enter 10638 to unlock the Encrypted Chest.
-- The 4th console is located down the stairwell at the entrance of the catacombs. Use 19019 to unlock the Encrypted Chest on the left.
-- The 5th console is found on the way back to the Felcycle, in from of the Snake statue. Here use 5661 to unlock another Encrypted Chest.
-- Still following the way toward the Felcycle, you will find the 6th console: The Rubenstein's Console. Input 52233 to unlock Rubenstein's Safe.
-- The 7th Console is located just behind Rubenstein's Console. Use 51567 to unlock the Encrypted chest nearby.
-- The 8th Console is in the room where Incognitro is stored. input 115 to unclock the Encrypted chest.
-- The 9th and last Console is any of the Slot machines located near by the Motorcycle. Using 777 with grant you the last Piece of Hate and activate the pylon.
-
-## 3 O'Clock Pylon: Hate
-
 Activating the 3 o’clock pylon involves solving a multi-step puzzle and collecting **Pieces of Hate**. You will need nine pieces in total to activate the pylon.
 
 ### Preparation
