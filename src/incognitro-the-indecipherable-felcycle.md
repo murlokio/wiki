@@ -146,3 +146,33 @@ The third and final location is in **Maldraxxus** within the **Shadowlands**, wh
 ```
 
 Once all three stacks are acquired, return to the Felcycle. The 1 o’clock pylon should now be activated.
+
+## 2 O'Clock Pylon: Pray
+
+- Find the Ny'alotha Obelisk in Vale of Eternal Blossoms in Pandaria
+- Summon the Pergy Pug pet
+- Use Dogg-Saron" Costume or "Yipp-Saron" Costume "Yipp-Saron" Costume
+- Use your Twitching Eyeball Twitching Eyeball, All-Seeing Eyes All-Seeing Eyes, or Gift of N'Zoth Gift of N'Zoth toy
+- Target the Ny'alotha Obelisk and type `/pray` in chat to emote praying.
+- This will reward you with the Key of Shadows, and activate the 2 o clock pylon
+- Not that if you do not have the items and toys mention aboved, any player around you doing all does step will also grant you the key.
+
+## 2 O'Clock Pylon: Pray
+
+To activate the 2 o’clock pylon, you need to interact with the **Ny’alotha Obelisk** in the **Vale of Eternal Blossoms** in Pandaria. This requires a series of steps tied to Old God-themed items and toys.
+
+![Ny’alotha Obelisk Location](/img/location-pylon-2-a.webp)
+
+```
+/way #1530 83.69 27.58 Obelisk in Vale of Eternal Blossoms
+```
+
+Start by summoning the **Pergy Pug** pet. While the pet is active, equip either the **Dogg-Saron Costume** or the **Yipp-Saron Costume**. Next, use one of the following toys: **Twitching Eyeball**, **All-Seeing Eyes**, or **Gift of N’Zoth**.
+
+Once prepared, target the **Ny’alotha Obelisk** and type `/pray` in chat to perform a praying emote. This will reward you with the **Key of Shadows** and activate the 2 o’clock pylon.
+
+If you lack the required items or toys, don’t worry—another player completing these steps nearby will grant you the key as well.
+
+The **Key of Shadows** is also used to unlock two doors within the **Karazhan Catacombs**, making it essential for your progress.
+
+![Karazhan Catacombs Key of Shadows Gates Location](/img/location-pylon-2-b.webp)
