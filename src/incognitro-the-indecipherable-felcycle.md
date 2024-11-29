@@ -149,16 +149,6 @@ Once all three stacks are acquired, return to the Felcycle. The 1 o’clock pylo
 
 ## 2 O'Clock Pylon: Pray
 
-- Find the Ny'alotha Obelisk in Vale of Eternal Blossoms in Pandaria
-- Summon the Pergy Pug pet
-- Use Dogg-Saron" Costume or "Yipp-Saron" Costume "Yipp-Saron" Costume
-- Use your Twitching Eyeball Twitching Eyeball, All-Seeing Eyes All-Seeing Eyes, or Gift of N'Zoth Gift of N'Zoth toy
-- Target the Ny'alotha Obelisk and type `/pray` in chat to emote praying.
-- This will reward you with the Key of Shadows, and activate the 2 o clock pylon
-- Not that if you do not have the items and toys mention aboved, any player around you doing all does step will also grant you the key.
-
-## 2 O'Clock Pylon: Pray
-
 To activate the 2 o’clock pylon, you need to interact with the **Ny’alotha Obelisk** in the **Vale of Eternal Blossoms** in Pandaria. This requires a series of steps tied to Old God-themed items and toys.
 
 ![Ny’alotha Obelisk Location](/img/location-pylon-2-a.webp)
