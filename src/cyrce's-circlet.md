@@ -9,6 +9,10 @@
 
 Cyrce’s Circlet is a reward from the main **Siren Isle** quest line, which begins with the quest **"The Expedition Awaits"** given by **Dawn**, located in the **Foundation Hall** in **Dornogal**.
 
+```
+/way #2339 41.6 29.8 Dawn
+```
+
 During the quest line, you’ll travel to Siren Isle and assist an **Earthen named Bargus**. The adventure culminates in the exploration of the **Radiant Vault**, where you’ll discover Cyrce’s Circlet on a skeleton wearing a pirate hat. Alongside the ring, you’ll also receive your first Citrine Gem.
 
 ![Cyrce’s Circlet Location](/img/cyrce-s-circlet_a.webp)
@@ -16,6 +20,10 @@ During the quest line, you’ll travel to Siren Isle and assist an **Earthen nam
 Back on the surface of the island, you’ll complete the quest line by equipping Cyrce’s Circlet and socketing the Citrine Gem.
 
 After completing the quest, you can purchase additional Cyrce’s Circlets from **Angorla**, located on Siren Isle, for **50 Flame-Blessed Iron** each. This allows players to acquire multiple rings for alternate gear sets.
+
+```
+/way #2369 71.2 44.2 Angorla
+```
 
 ## Citrine Gem Sockets
 
