@@ -13,7 +13,7 @@ Cyrce’s Circlet is a reward from the main **Siren Isle** quest line, which beg
 /way #2339 41.6 29.8 Dawn
 ```
 
-During the quest line, you’ll travel to Siren Isle and assist an **Earthen named Bargus**. The adventure culminates in the exploration of the **Radiant Vault**, where you’ll discover Cyrce’s Circlet on a skeleton wearing a pirate hat. Alongside the ring, you’ll also receive your first Citrine Gem.
+During the quest line, you’ll travel to Siren Isle and assist an **Earthen named Bargus**. The adventure culminates in the exploration of the **Forgotten Vault**, where you’ll discover Cyrce’s Circlet on a skeleton wearing a pirate hat. Alongside the ring, you’ll also receive your first Citrine Gem.
 
 ![Cyrce’s Circlet Location](/img/cyrce-s-circlet_a.webp)
 
