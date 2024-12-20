@@ -3,7 +3,7 @@
 
 # Cyrce's Circlet
 
-**Cyrce's Circlet** is a powerful new ring introduced in World of Warcraft's **The War Within** 11.0.7 patch. This unique item starts at item level 619 and can be upgraded to item level 639. The ring features three special sockets for **Citrine Gems**, offering versatile customization options for both PvE and PvP players.
+**Cyrce’s Circlet** is a powerful new ring introduced in **World of Warcraft’s The War Within 11.0.7 patch**. Rewarded for completing the **Siren Isle questline**, this ring starts at item level 639 and is upgradable to 657. Featuring three special sockets for **Citrine Gems**, Cyrce’s Circlet offers versatile customization options for both PvE and PvP players.
 
 ## Where to Find Cyrce’s Circlet in WoW
 
@@ -24,6 +24,24 @@ After completing the quest, you can purchase additional Cyrce’s Circlets from 
 ```
 /way #2369 71.2 44.2 Angorla
 ```
+
+## How to Upgrade Cyrce’s Circlet
+
+Cyrce’s Circlet can be upgraded using **Raw Singing Citrine**, with each upgrade increasing the ring’s item level by 3.
+
+Raw Singing Citrine is primarily earned through a series of timegated quests, with a new quest unlocking each week after the release of **Siren Isle**. These quests also grant unique bonuses that are active only while on Siren Isle when the ring is equipped:
+
+|                                                                          | Name                       | Effect                                                                                                                                             | Quest                                    |
+| ------------------------------------------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| ![Blessing of the Seadweller](/img/cyrce-s-circlet_upgrade_quest_a.webp) | Blessing of the Seadweller | Gain the ability to walk on the seafloor, discover treasures underwater, breathe underwater, and swim faster in the waters surrounding Siren Isle. | _! Dipping a Toe_ (Week 2)               |
+| ![Superjuiced](/img/cyrce-s-circlet_upgrade_quest_b.webp)                | Superjuiced                | Activate the TR-06 Pummeler and N.U.K.U.L.A.R Target Painter while in the Seafury Tempest region of Siren Isle.                                    | _! Juicing Up and Storming Out_ (Week 3) |
+| ![Cyrce's Zephyr](/img/cyrce-s-circlet_upgrade_quest_c.webp)             | Cyrce's Zephyr             | Abilities have a chance to summon Cyrce's Zephyr, which casts every Singing Citrine effect you have over 3 seconds while on Siren Isle.            | _! Unleashing Her Power_ (Week 4)        |
+| ![Thieves of the Siren](/img/cyrce-s-circlet_upgrade_quest_d.webp)       | Thieves of the Siren       | Highlights invisible enemies attempting to steal riches on Siren Isle, often targeting Flame-Blessed Iron from powerful creatures.                 | _! The Singing Bandit Catcher_ (Week 5)  |
+| ![Wings of the Siren](/img/cyrce-s-circlet_upgrade_quest_e.webp)         | Wings of the Siren         | Enables flight on Siren Isle by granting control over the winds.                                                                                   | _! Cyrce Would Be So Proud_ (Week 6)     |
+
+For alternate characters, Raw Singing Citrine can also be found in chests and dropped by rare monsters on Siren Isle, offering a convenient catch-up option.
+
+By completing these quests and exploring Siren Isle, players can steadily upgrade Cyrce’s Circlet and unlock its full potential.
 
 ## Citrine Gem Sockets
 
