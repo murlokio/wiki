@@ -1,6 +1,8 @@
 <!-- wiki:icon /img/cyrce-s-circlet.webp -->
 <!-- wiki:description Discover Cyrce’s Circlet in WoW The War Within 11.0.7 – a powerful ring with upgradeable item levels and three unique Citrine Gem slots for PvE and PvP customization. Learn where to find it, gem effects, and tips for maximizing its potential. -->
 
+![Cyrce's Circlet Banner](/img/cyrce-s-circlet_banner.webp)
+
 # Cyrce's Circlet
 
 **Cyrce’s Circlet** is a powerful new ring introduced in **World of Warcraft’s The War Within 11.0.7 patch**. Rewarded for completing the **Siren Isle questline**, this ring starts at item level 639 and is upgradable to 657. Featuring three special sockets for **Citrine Gems**, Cyrce’s Circlet offers versatile customization options for both PvE and PvP players.
