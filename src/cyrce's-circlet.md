@@ -45,15 +45,23 @@ For alternate characters, Raw Singing Citrine can also be found in chests and dr
 
 By completing these quests and exploring Siren Isle, players can steadily upgrade Cyrce’s Circlet and unlock its full potential.
 
-## Citrine Gem Sockets
+## Citrine Gems for Cyrce’s Circlet
 
-Cyrce's Circlet includes three sockets that can be filled with **Citrine Gems**, which come in three different types:
+Cyrce’s Circlet features three sockets designed for **Citrine Gems**, offering a variety of effects. These gems come in three types:
 
 - **Thunder Citrine**
 - **Sea Citrine**
 - **Wind Citrine**
 
-These gems can be acquired by completing various content on Siren Isle, providing a range of powerful effects.
+### How to Acquire Citrine Gems
+
+Citrine Gems can be obtained through activities on Siren Isle. Some gems are awarded for completing quests, which also introduce their unique effects.
+
+You can also collect gems by defeating world bosses activated via the **Siren Isle Command Map**. Each week, two bosses become available, and each drops two different gems.
+
+![Siren Isle Command Map Location](/img/cyrce-s-circlet_map_location.webp)
+
+By participating in quests and world boss encounters, you can customize Cyrce’s Circlet to complement your preferred playstyle.
 
 ## Thunder Citrine Gem List
 
